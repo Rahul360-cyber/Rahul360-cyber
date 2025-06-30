@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋
 
-I'm a data science graduate student at Politecnico di Torino, passionate about building impactful machine learning solutions and advancing AI-driven innovation. With hands-on experience in predictive modeling, deep learning, and cloud technologies, I enjoy tackling real-world challenges in domains like sustainability, healthcare, and smart transportation.
+I'm a Master's student in Data Science and Engineering with a specialized interest in designing and deploying efficient machine learning models for resource-constrained embedded systems. My hands-on experience includes developing highly optimized models with TensorFlow Lite for on-device inference, as demonstrated in my On-Device Voice Control System project. I am passionate about applying these skills to solve challenges in industrial IoT applications.
 
 ## 🌍 Currently
 - Pursuing an MS in Data Science and Engineering at Politecnico di Torino (expected Oct 2025)
